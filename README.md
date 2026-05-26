@@ -1,5 +1,6 @@
-## Opa, você por aqui! 👋
-- 🔭 Denvolvedor com foco em Python
+# Opa, você por aqui! 👋
+## Me chamo Igor Jerônimo
+- 🔭 Denvolvedor de Software | Python, JavaScript
 - 🌱 Estudando BackEnd e IA
 
   <div style="display: flex"><br>
